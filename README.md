@@ -6,7 +6,7 @@
 <hr>
 <h1>🌱 I’m currently learning</h1><br>
 - ML/DL/Data Analysis, enchancing my skills to further pursue Data Science<br>
-- JavaScript/React, to make beautiful websites where i can display my models
+- JavaScript/React, to make beautiful websites where i can display my models<br>
 - Dango to connect/deploy models
 <hr>
 <h1>I'm Open to Freelancing/Job Opportunities!</h1>
