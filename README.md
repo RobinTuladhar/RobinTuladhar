@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I am Robin Tuladhar, a student pursuing a Bachelor's degree in Information Technology in Nepal. I have a strong passion for learning and exploring the fields of data science and front-end development. To further my understanding of data science, I have undertaken multiple projects that require data analysis, visualization, and machine learning techniques. I strongly believe that data science has the potential to solve real-world problems, and I am eager to continue my exploration of this exciting field. Furthermore, I have a keen interest in front-end development and have been working on numerous projects to improve my skills. I take pride in creating visually appealing and responsive web designs that provide a seamless user experience.
 <hr>
 <h1>🔭 I’m currently working on Imaze.ai</h1> <br>
-- It is a web based image caption generator where you can generate caption for any image. The model on the backend is constructed with the combination of CNN(VGG16) and RNN(LSTM) for my fyp (Currently private repo will public it, ones my final year is over)<br>
+- It is a web based image caption generator where you can generate caption for any image. The model on the backend is constructed with the combination of CNN(VGG16) and RNN(LSTM) for my fyp (Currently private repo will public it, once my final year is over)<br>
 - A portfolio website to further enchance my understandings in front end
 <hr>
 <h1>🌱 I’m currently learning</h1><br>
