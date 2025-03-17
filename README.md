@@ -8,7 +8,7 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 **About Me!**
 
-- 👨🏽‍💻 I recently graduated from Herald College with a Bachelor's degree in Information Technology.
+- 👨🏽‍💻 Graduated from Herald College with a Bachelor's degree in Information Technology.
 - 😀 Academic Tutor at Herald College Kathmandu.
 - 🌱 My interests include Data Science, Machine Learning, and Business
 - 🤔 I'm currently pursuing a path toward being a Data Scientist. 
